@@ -1,28 +1,20 @@
 [
   {
     "_type": "Sara6E", 
-    "_description": "Sara6E 2007-01-02T00:00:00 head[1], body[49] op[0x6e]", 
-    "timestamp": "2007-01-02T00:00:00", 
+    "_description": "Sara6E 2016-05-28T00:00:00 head[1], body[49] op[0x6e]", 
+    "timestamp": "2016-05-28T00:00:00", 
     "_body": "05000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000", 
-    "valid_date": "2007-01-01", 
+    "valid_date": "2016-05-27", 
     "_head": "6e", 
-    "_date": "0187"
+    "_date": "5b90"
   }, 
   {
     "_type": "ResultDailyTotal", 
-    "_description": "ResultDailyTotal 2007-01-02T00:00:00 head[5], body[3] op[0x07]", 
-    "timestamp": "2007-01-02T00:00:00", 
+    "_description": "ResultDailyTotal 2016-05-28T00:00:00 head[5], body[3] op[0x07]", 
+    "timestamp": "2016-05-28T00:00:00", 
     "_body": "000000", 
-    "valid_date": "2007-01-01", 
+    "valid_date": "2016-05-27", 
     "_head": "0700000000", 
-    "_date": "0187"
-  }, 
-  {
-    "_type": "NewTimeSet", 
-    "_description": "NewTimeSet 2016-05-26T22:32:00 head[2], body[0] op[0x18]", 
-    "timestamp": "2016-05-26T22:32:00", 
-    "_body": "", 
-    "_head": "1800", 
-    "_date": "4060161a10"
+    "_date": "5b90"
   }
 ]
