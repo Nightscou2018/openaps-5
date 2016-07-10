@@ -1,0 +1,40 @@
+{
+  "device": "openaps://raspberrypi", 
+  "pump": {
+    "battery": {
+      "status": "normal", 
+      "voltage": 1.25
+    }, 
+    "status": {
+      "status": "normal", 
+      "timestamp": "2016-07-10T23:01:05.000Z", 
+      "bolusing": false, 
+      "suspended": false
+    }, 
+    "reservoir": 168.575, 
+    "clock": "2016-07-10T16:00:33-07:00"
+  }, 
+  "openaps": {
+    "suggested": {
+      "bg": 179, 
+      "temp": "absolute", 
+      "snoozeBG": 142, 
+      "timestamp": "2016-07-10T23:00:57.000Z", 
+      "rate": 2.5, 
+      "reason": "Eventual BG 142 >= 100, adj. req. rate: 3.0 to maxSafeBasal: 2.5, temp 2.025<2.5U/hr", 
+      "eventualBG": 142, 
+      "duration": 30, 
+      "mealAssist": "Off: Carbs: undefined Boluses: undefined ISF: 40, Target: 100 Deviation: 7 BGI: -1.7", 
+      "tick": "+4"
+    }, 
+    "iob": {
+      "netbasalinsulin": 2.25, 
+      "timestamp": "2016-07-10T23:00:53.000Z", 
+      "activity": 0.0085, 
+      "basaliob": 1.095, 
+      "hightempinsulin": 2.25, 
+      "bolussnooze": 0, 
+      "iob": 1.095
+    }
+  }
+}
