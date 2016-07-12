@@ -1,5 +1,16 @@
 [
   {
+    "direction": "SingleUp", 
+    "trend": 2, 
+    "dateString": "2016-07-12T20:00:57.000Z", 
+    "sgv": 213, 
+    "device": "share2", 
+    "date": 1468353657000, 
+    "_id": "57854ce629678dc19bf96700", 
+    "type": "sgv", 
+    "glucose": 213
+  }, 
+  {
     "direction": "DoubleUp", 
     "trend": 1, 
     "dateString": "2016-07-12T19:55:58.000Z", 
@@ -97,16 +108,5 @@
     "_id": "5785425a29678dc19bf966d2", 
     "type": "sgv", 
     "glucose": 101
-  }, 
-  {
-    "direction": "Flat", 
-    "trend": 4, 
-    "dateString": "2016-07-12T19:10:57.000Z", 
-    "sgv": 99, 
-    "device": "share2", 
-    "date": 1468350657000, 
-    "_id": "5785412e29678dc19bf966cc", 
-    "type": "sgv", 
-    "glucose": 99
   }
 ]
