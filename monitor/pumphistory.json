@@ -1,0 +1,36 @@
+[
+  {
+    "_type": "PumpSuspend", 
+    "_description": "PumpSuspend 2016-08-10T15:14:14 head[2], body[0] op[0x1e]", 
+    "timestamp": "2016-08-10T15:14:14", 
+    "_body": "", 
+    "_head": "1e01", 
+    "_date": "8e0e0f0a10"
+  }, 
+  {
+    "programmed": 1.0, 
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-08-10T14:37:18 head[8], body[0] op[0x01]", 
+    "timestamp": "2016-08-10T14:37:18", 
+    "_body": "", 
+    "_head": "0100280028002000", 
+    "amount": 1.0, 
+    "unabsorbed": 0.8, 
+    "duration": 0, 
+    "type": "normal", 
+    "_date": "92254e6a10"
+  }, 
+  {
+    "programmed": 1.5, 
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-08-10T13:23:21 head[8], body[0] op[0x01]", 
+    "timestamp": "2016-08-10T13:23:21", 
+    "_body": "", 
+    "_head": "01003c003c000000", 
+    "amount": 1.5, 
+    "unabsorbed": 0.0, 
+    "duration": 0, 
+    "type": "normal", 
+    "_date": "95174d6a10"
+  }
+]
