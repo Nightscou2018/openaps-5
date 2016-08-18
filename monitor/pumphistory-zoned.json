@@ -1,0 +1,64 @@
+[
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-08-17T22:56:54 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-08-17T22:56:54-07:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "b638165110"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-08-17T22:56:54 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-08-17T22:56:54-07:00", 
+    "_body": "00", 
+    "_head": "3328", 
+    "rate": 1.0, 
+    "_date": "b638165110"
+  }, 
+  {
+    "_type": "BasalProfileStart", 
+    "_description": "BasalProfileStart 2016-08-17T22:11:11 head[2], body[3] op[0x7b]", 
+    "timestamp": "2016-08-17T22:11:11-07:00", 
+    "_body": "002200", 
+    "profile_index": 0, 
+    "_head": "7b00", 
+    "rate": 0.85, 
+    "offset": 0, 
+    "_date": "8b0b161110"
+  }, 
+  {
+    "programmed": 2.0, 
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-08-17T21:45:20 head[8], body[0] op[0x01]", 
+    "timestamp": "2016-08-17T21:45:20-07:00", 
+    "_body": "", 
+    "_head": "0100500050000000", 
+    "amount": 2.0, 
+    "unabsorbed": 0.0, 
+    "duration": 0, 
+    "type": "normal", 
+    "_date": "942d557110"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-08-17T21:41:11 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-08-17T21:41:11-07:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "8b29155110"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-08-17T21:41:11 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-08-17T21:41:11-07:00", 
+    "_body": "00", 
+    "_head": "332c", 
+    "rate": 1.1, 
+    "_date": "8b29155110"
+  }
+]
