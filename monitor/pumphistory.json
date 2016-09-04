@@ -1,0 +1,28 @@
+[
+  {
+    "programmed": 2.5, 
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-09-03T20:50:27 head[8], body[0] op[0x01]", 
+    "timestamp": "2016-09-03T20:50:27", 
+    "_body": "", 
+    "_head": "0100640064001400", 
+    "amount": 2.5, 
+    "unabsorbed": 0.5, 
+    "duration": 0, 
+    "type": "normal", 
+    "_date": "9b72546310"
+  }, 
+  {
+    "programmed": 2.0, 
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-09-03T18:48:48 head[8], body[0] op[0x01]", 
+    "timestamp": "2016-09-03T18:48:48", 
+    "_body": "", 
+    "_head": "0100500050000000", 
+    "amount": 2.0, 
+    "unabsorbed": 0.0, 
+    "duration": 0, 
+    "type": "normal", 
+    "_date": "b070526310"
+  }
+]
